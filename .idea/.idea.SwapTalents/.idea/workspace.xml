@@ -14,54 +14,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="817bb7b5-1e2b-4bcc-81ae-f99c20789c39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SwapTalents/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SwapTalents/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SwapTalents/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SwapTalents/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SwapTalents/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SwapTalents/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/SwapTalents/xs/UserPrefs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwapTalents.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/AuctionService.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/AuctionService.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/AuctionService.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/AuctionService.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/ref/AuctionService.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/refint/AuctionService.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/staticwebassets.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/staticwebassets/msbuild.build.AuctionService.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AuctionService.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AuctionService.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AuctionService/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AuctionService/Data/AuctionDbContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AuctionService/Entities/Auction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AuctionService/Entities/Item.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AuctionService/Entities/Status.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SwapTalents/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SwapTalents/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/AuctionService.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/AuctionService.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/AuctionService.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/bin/Debug/net7.0/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/AuctionService.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/AuctionService.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/AuctionService.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/AuctionService.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/AuctionService.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/AuctionService.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/AuctionService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/ref/AuctionService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/ref/AuctionService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/refint/AuctionService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/refint/AuctionService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AuctionService.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AuctionService.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AuctionService.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AuctionService.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionService/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionService/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +60,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RavanHash&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RavanHash/SwapTalents.git&quot;,
+    &quot;accountId&quot;: &quot;c24088f9-351d-44c6-82d7-18e3ff8ba9b0&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/AuctionService/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -106,9 +104,9 @@
   },
   &quot;keyToStringList&quot;: {
     &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/ravan/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/ravan/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
-      &quot;/Users/ravan/Library/Application Support/Symbols/src&quot;
+      &quot;C:\\Users\\RA\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\RA\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\RA\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
 }</component>
@@ -167,6 +165,8 @@
       <workItem from="1720518025082" duration="518000" />
       <workItem from="1720518554413" duration="987000" />
       <workItem from="1720519562207" duration="932000" />
+      <workItem from="1720605538728" duration="4438000" />
+      <workItem from="1720613802032" duration="2401000" />
     </task>
     <servers />
   </component>
