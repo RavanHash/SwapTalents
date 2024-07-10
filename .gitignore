@@ -32,8 +32,6 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
-/src/AuctionService/obj/
-
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 /**/.idea/*
@@ -480,3 +478,6 @@ $RECYCLE.BIN/
 *.lnk
 infra/prod-k8s/prod-secrets.yml
 infra/prod-k8s/le-issuer-staging.yml
+
+src/AuctionService/bin/
+src/AuctionService/obj/
