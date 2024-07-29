@@ -4,7 +4,7 @@ using SearchService.Models;
 using SearchService.RequestHelpers;
 
 namespace SearchService.Controllers;
-
+    
 [ApiController]
 [Route("api/search")]
 public class SearchController : ControllerBase
